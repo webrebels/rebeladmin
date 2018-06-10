@@ -16,6 +16,8 @@ Foreningen er selveiende og en frittstående juridisk person med upersonlig og b
 § 4 Medlemmer
 
 (her angis kriterier for hvem som kan bli medlem i foreningen)
+Årsmøtet kan, etter styrets innstilling, innvilge et medlem et personlig æresmedlemskap på livstid.
+Et æresmedlem blir ikke avkrevet medlemskapskontigent.
 
 § 5 Stemmerett og valgbarhet
 
