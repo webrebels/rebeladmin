@@ -81,8 +81,7 @@ Er det ved omvalg stemmelikhet, avgjøres valget ved loddtrekning.
 5.	Vedta Web Rebels-konferansens budsjett
 6.	Velge:  
 	a) Leder og nestleder  
-	b) PR-ansvarlig og styremedlem(mer)  
-	c) Revisor og dennes stedfortreder  
+	b) PR-ansvarlig og styremedlem(mer)
 	
 § 12 Ekstraordinære årsmøter
 
