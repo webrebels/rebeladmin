@@ -94,16 +94,20 @@ Ekstraordinært årsmøte kan bare behandle og ta avgjørelse i de sakene som er
 
 § 13 Styret
 
-Foreningen ledes av et styre på 		 (her angis det enten eksakt antall styremedlemmer eller minimum/maksimum antall styremedlemmer) antall medlemmer.
+Styret består av 5-10 medlemmer, og er beslutningsdyktig når minst 2/3 av styrets medlemmer er tilstede.
 Styret er høyeste myndighet mellom årsmøtene.
+Styremedlem velges for ett år av gangen.
+Alle medlemmer har rett til å stille forslag som må behandles på neste styremøtet og resultatet må føres i protokollen.
 
-Ved registrering av vedtekter i Frivillighetsregisteret skal det fremkomme i vedtektene opplysning om valg av styre. F.eks.: regler omkring hvordan valget skal foregå, hvem kan velge styret, hvor lenge skal hver person ha sin rolle, hvordan skal styresammensettingen være fordelt mht roller m.m. (Dette kan være forskjellig fra forening til forening) 
-
-Styret skal:
-1. Iverksette årsmøtets bestemmelser.
-2. Oppnevne etter behov komiteer/utvalg/personer for spesielle oppgaver og utarbeide instruks for disse.
-3. Administrere og føre nødvendig kontroll med foreningens økonomi i henhold til de til enhver tid gjeldende instrukser og bestemmelser.
-4. Representere foreningen utad.
+Styrets ansvarsoppgaver:
+- Iverksette årsmøtets bestemmelser
+- Oppnevne etter behov komiteer/utvalg/personer for spesielle oppgaver og utarbeide instruks for disse
+- Styret har oversikt over medlemmene til enhver tid.
+- Styret er ansvarlig for å arrangere årsmøte
+- Lage årsberetning
+- Administrere og føre nødvendig kontroll med foreningens økonomi i henhold til de til enhver tid gjeldende instrukser og bestemmelser
+- Utarbeide forslag til budsjett for kommende år
+- Styret er ansvarlig for å drive inn medlemmskontigenten
 
 Styret skal holde møte når lederen forlanger det eller et flertall av styremedlemmene forlanger det.
 
