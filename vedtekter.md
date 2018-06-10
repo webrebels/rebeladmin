@@ -73,16 +73,15 @@ Er det ved omvalg stemmelikhet, avgjøres valget ved loddtrekning.
 
 § 11 Årsmøtets oppgaver
 
-Årsmøtet skal:
-1.	Behandle Web Rebels-konferansens årsmelding
-2.	Behandle Web Rebels-konferansens regnskap
-3.	Behandle innkomne forslag
-4.	Fastsette kontingent
-5.	Vedta Web Rebels-konferansens budsjett
-6.	Velge:  
-	a) Leder og nestleder  
-	b) PR-ansvarlig og styremedlem(mer)  
-	c) Revisor og dennes stedfortreder  
+1. Valg av møteleder og referent
+2. Godkjennelse av innkallingen, representantene og deres stemmerett
+3. Behandle foreningens årsmelding
+4. Godkjenne foreningens regnskap
+5. Vedta foreningens budsjett
+6. Eventuelle vedtektsendringer
+7. Andre innkomne forslag (kan ikke være vedtektsendringer)
+8. Fastsette kontigent
+9. Valg av nytt styre
 	
 § 12 Ekstraordinære årsmøter
 
