@@ -34,10 +34,11 @@ Utgifter til godtgjørelse og refusjon for faktiske utgifter skal fremgå av bud
 
 § 8 Årsmøte
 
-Årsmøtet, som holdes hvert år i april måned, er foreningens høyeste myndighet.
-Årsmøtet innkalles av styret med minst 1 måneds varsel, direkte til medlemmene og/eller ved kunngjøring i pressen.
-Forslag som skal behandles på årsmøtet skal være sendt til styret senest 2 uker før årsmøtet.
-Fullstendig saksliste må være tilgjengelig for medlemmene senest 1 uke før årsmøtet.
+Årsmøtet er foreningens høyeste organ.
+Ordinært årsmøte holdes hvert år innen 1. juli.
+Årsmøtet innkalles av styret med minst 14 dagers varsel, direkte til medlemmene og/eller ved kunngjøring i pressen.
+Forslag som skal behandles på årsmøtet skal være sendt til styret senest 7 dager før årsmøtet.
+Fullstendig saksliste må være tilgjengelig for medlemmene senest 5 dager før årsmøtet.
 
 Alle medlemmer har adgang til årsmøtet.
 Årsmøtet kan invitere andre personer og/eller media til å være til stede.
@@ -45,7 +46,7 @@ Alle medlemmer har adgang til årsmøtet.
 Årsmøtet er vedtaksført med det antall stemmeberettigede medlemmer som møter.
 Ingen har mer enn én stemme, og stemmegivning kan ikke skje ved fullmakt.
 
-På årsmøtet kan ikke behandles forslag om vedtektsendring som ikke er oppført på sakslisten senest 1 uke før årsmøtet.
+På årsmøtet kan ikke behandles forslag om vedtektsendring som ikke er oppført på sakslisten senest 7 dager før årsmøtet.
 Andre saker kan behandles og avgjøres når 2/3 av de fremmøtte krever det.
 Slik beslutning kan bare tas i forbindelse med godkjenning av sakslisten.
 
