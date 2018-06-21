@@ -4,6 +4,7 @@ Vedtatt 1. november 2011 med siste endringer av 1. november 2011.
 § 1 Foreningens navn
 
 Foreningens navn er: “Web Rebels-konferansen” og ble stiftet 1. november 2011.
+Foreningen er registrert med organisasjonsnummer 997 686 659 i Enhetsregisteret.
 
 § 2 Formål
 
