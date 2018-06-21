@@ -19,8 +19,6 @@ Foreningen har personmedlemskap og medlemsskap selges årlig.
 
 Medlemskap gir:
 - valgbarhet til verv innen foreningen
-- tilgang til alle foreningens arrangementer
-- redusert pris på konferansen fastsatt av årsmøte
 
 § 5 Stemmerett og valgbarhet
 
