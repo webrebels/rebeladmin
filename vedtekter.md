@@ -18,8 +18,10 @@ Foreningen er selveiende og en frittstående juridisk person med upersonlig og b
 
 Foreningen har personmedlemskap og medlemsskap selges årlig.
 
-Medlemskap gir:
-- valgbarhet til verv innen foreningen
+Medlemskap gir valgbarhet til verv innen foreningen
+
+Årsmøtet kan, etter styrets innstilling, innvilge et medlem et personlig æresmedlemskap på livstid.
+Et æresmedlem blir ikke avkrevet medlemskapskontigent.
 
 § 5 Stemmerett og valgbarhet
 
