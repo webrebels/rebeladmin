@@ -16,7 +16,10 @@ Foreningen er selveiende og en frittstående juridisk person med upersonlig og b
 
 § 4 Medlemmer
 
-(her angis kriterier for hvem som kan bli medlem i foreningen)
+Foreningen har personmedlemskap og medlemsskap selges årlig.
+
+Medlemskap gir:
+- valgbarhet til verv innen foreningen
 
 § 5 Stemmerett og valgbarhet
 
