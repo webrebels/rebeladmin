@@ -119,6 +119,8 @@ Styret er vedtaksført når et flertall av styrets medlemmer er til stede.
 Vedtak fattes med flertall av de avgitte stemmene.
 Ved stemmelikhet teller møtelederens stemme dobbelt.
 
+Ved styreverv bortfaller deltakeravgift for konferansen.
+
 § 14 Grupper /avdelinger
 
 Foreningen kan organiseres med avdelinger og/eller grupper.
