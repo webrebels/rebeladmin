@@ -1,5 +1,5 @@
-Vedtekter for foreningen ”Web Rebels-konferansen”.
-Vedtatt 1. november 2011 med siste endringer av 1. november 2011.
+Vedtekter for foreningen ”Web Rebels-konferansen”.  
+Vedtatt 1. november 2011 med siste endringer av 21. juni 2018.
 
 § 1 Foreningens navn
 
