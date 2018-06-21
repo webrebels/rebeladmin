@@ -4,6 +4,7 @@ Vedtatt 1. november 2011 med siste endringer av 1. november 2011.
 § 1 Foreningens navn
 
 Foreningens navn er: “Web Rebels-konferansen” og ble stiftet 1. november 2011.
+Foreningen er registrert med organisasjonsnummer 997 686 659 i Enhetsregisteret.
 
 § 2 Formål
 
@@ -15,7 +16,10 @@ Foreningen er selveiende og en frittstående juridisk person med upersonlig og b
 
 § 4 Medlemmer
 
-(her angis kriterier for hvem som kan bli medlem i foreningen)
+Foreningen har personmedlemskap og medlemsskap selges årlig.
+
+Medlemskap gir valgbarhet til verv innen foreningen
+
 Årsmøtet kan, etter styrets innstilling, innvilge et medlem et personlig æresmedlemskap på livstid.
 Et æresmedlem blir ikke avkrevet medlemskapskontigent.
 
@@ -36,10 +40,11 @@ Utgifter til godtgjørelse og refusjon for faktiske utgifter skal fremgå av bud
 
 § 8 Årsmøte
 
-Årsmøtet, som holdes hvert år i april måned, er foreningens høyeste myndighet.
-Årsmøtet innkalles av styret med minst 1 måneds varsel, direkte til medlemmene og/eller ved kunngjøring i pressen.
-Forslag som skal behandles på årsmøtet skal være sendt til styret senest 2 uker før årsmøtet.
-Fullstendig saksliste må være tilgjengelig for medlemmene senest 1 uke før årsmøtet.
+Årsmøtet er foreningens høyeste organ.
+Ordinært årsmøte holdes hvert år innen 1. juli.
+Årsmøtet innkalles av styret med minst 14 dagers varsel, direkte til medlemmene og/eller ved kunngjøring i pressen.
+Forslag som skal behandles på årsmøtet skal være sendt til styret senest 7 dager før årsmøtet.
+Fullstendig saksliste må være tilgjengelig for medlemmene senest 5 dager før årsmøtet.
 
 Alle medlemmer har adgang til årsmøtet.
 Årsmøtet kan invitere andre personer og/eller media til å være til stede.
@@ -47,14 +52,14 @@ Alle medlemmer har adgang til årsmøtet.
 Årsmøtet er vedtaksført med det antall stemmeberettigede medlemmer som møter.
 Ingen har mer enn én stemme, og stemmegivning kan ikke skje ved fullmakt.
 
-På årsmøtet kan ikke behandles forslag om vedtektsendring som ikke er oppført på sakslisten senest 1 uke før årsmøtet.
+På årsmøtet kan ikke behandles forslag om vedtektsendring som ikke er oppført på sakslisten senest 7 dager før årsmøtet.
 Andre saker kan behandles og avgjøres når 2/3 av de fremmøtte krever det.
 Slik beslutning kan bare tas i forbindelse med godkjenning av sakslisten.
 
 § 9 Ledelse av årsmøtet
 
 Årsmøtet ledes av valgt dirigent.
-Dirigenten behøverikke å være medlem av Web Rebels-konferansen.	
+Dirigenten behøver ikke å være medlem av foreningen.	
 
 § 10 Stemmegivning på årsmøtet
 
@@ -83,8 +88,7 @@ Er det ved omvalg stemmelikhet, avgjøres valget ved loddtrekning.
 5.	Vedta Web Rebels-konferansens budsjett
 6.	Velge:  
 	a) Leder og nestleder  
-	b) PR-ansvarlig og styremedlem(mer)  
-	c) Revisor og dennes stedfortreder  
+	b) PR-ansvarlig og styremedlem(mer)
 	
 § 12 Ekstraordinære årsmøter
 
@@ -96,22 +100,28 @@ Ekstraordinært årsmøte kan bare behandle og ta avgjørelse i de sakene som er
 
 § 13 Styret
 
-Foreningen ledes av et styre på 		 (her angis det enten eksakt antall styremedlemmer eller minimum/maksimum antall styremedlemmer) antall medlemmer.
+Styret består av 5-10 medlemmer, og er beslutningsdyktig når minst 2/3 av styrets medlemmer er tilstede.
 Styret er høyeste myndighet mellom årsmøtene.
+Styremedlem velges for ett år av gangen.
+Alle medlemmer har rett til å stille forslag som må behandles på neste styremøtet og resultatet må føres i protokollen.
 
-Ved registrering av vedtekter i Frivillighetsregisteret skal det fremkomme i vedtektene opplysning om valg av styre. F.eks.: regler omkring hvordan valget skal foregå, hvem kan velge styret, hvor lenge skal hver person ha sin rolle, hvordan skal styresammensettingen være fordelt mht roller m.m. (Dette kan være forskjellig fra forening til forening) 
-
-Styret skal:
-1. Iverksette årsmøtets bestemmelser.
-2. Oppnevne etter behov komiteer/utvalg/personer for spesielle oppgaver og utarbeide instruks for disse.
-3. Administrere og føre nødvendig kontroll med foreningens økonomi i henhold til de til enhver tid gjeldende instrukser og bestemmelser.
-4. Representere foreningen utad.
+Styrets ansvarsoppgaver:
+- Iverksette årsmøtets bestemmelser
+- Oppnevne etter behov komiteer/utvalg/personer for spesielle oppgaver og utarbeide instruks for disse
+- Styret har oversikt over medlemmene til enhver tid.
+- Styret er ansvarlig for å arrangere årsmøte
+- Lage årsberetning
+- Administrere og føre nødvendig kontroll med foreningens økonomi i henhold til de til enhver tid gjeldende instrukser og bestemmelser
+- Utarbeide forslag til budsjett for kommende år
+- Styret er ansvarlig for å drive inn medlemmskontigenten
 
 Styret skal holde møte når lederen forlanger det eller et flertall av styremedlemmene forlanger det.
 
 Styret er vedtaksført når et flertall av styrets medlemmer er til stede.
 Vedtak fattes med flertall av de avgitte stemmene.
 Ved stemmelikhet teller møtelederens stemme dobbelt.
+
+Ved styreverv bortfaller deltakeravgift for konferansen.
 
 § 14 Grupper /avdelinger
 
