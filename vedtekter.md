@@ -57,7 +57,7 @@ Slik beslutning kan bare tas i forbindelse med godkjenning av sakslisten.
 § 9 Ledelse av årsmøtet
 
 Årsmøtet ledes av valgt dirigent.
-Dirigenten behøverikke å være medlem av Web Rebels-konferansen.	
+Dirigenten behøver ikke å være medlem av foreningen.	
 
 § 10 Stemmegivning på årsmøtet
 
